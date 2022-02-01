@@ -49,6 +49,7 @@ export const OurValuesInfoHeader = styled.h3`
 	letter-spacing:0.06em;
 	text-transform:uppercase;
 	margin:15px 0 10px;
+	color:#000000 !important;
 	@media (max-width:767px){
 		margin:7px 0 15px;
 	};
